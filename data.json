@@ -3,325 +3,280 @@
     "bistro-tables": [
       {
         "productCode": "SL20034",
-        "material": "Sheesham Wood",
+        "description": "Sheesham Wood",
         "Finish": "Natural Polish",
-        "size": "120x60x45 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/furniture/Bistro%20Tables/SL20034.jpg?updatedAt=1737201010813"
       },
       {
         "productCode": "SL21420",
-        "material": "Teak Wood",
+        "description": "Teak Wood",
         "Finish": "Walnut Finish",
-        "size": "100x50x40 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/furniture/Bistro%20Tables/SL21420.jpg?updatedAt=1737201006180"
       },
       {
         "productCode": "SL21389",
-        "material": "Teak Wood",
+        "description": "Teak Wood",
         "Finish": "Walnut Finish",
-        "size": "100x50x40 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/furniture/Bistro%20Tables/SL21389.jpg?updatedAt=1737201005741"
       },
       {
         "productCode": "SL20035",
-        "material": "Teak Wood",
+        "description": "Teak Wood",
         "Finish": "Walnut Finish",
-        "size": "100x50x40 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/furniture/Bistro%20Tables/SL20035.jpg?updatedAt=1737201005524"
       },
       {
         "productCode": "SL21114",
-        "material": "Teak Wood",
+        "description": "Teak Wood",
         "Finish": "Walnut Finish",
-        "size": "100x50x40 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/furniture/Bistro%20Tables/SL21114.jpg?updatedAt=1737201004469"
       },
       {
         "productCode": "SL20149",
-        "material": "Teak Wood",
+        "description": "Teak Wood",
         "Finish": "Walnut Finish",
-        "size": "100x50x40 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/furniture/Bistro%20Tables/SL20149.jpg?updatedAt=1737201004147"
       },
       {
         "productCode": "SL20150",
-        "material": "Teak Wood",
+        "description": "Teak Wood",
         "Finish": "Walnut Finish",
-        "size": "100x50x40 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/furniture/Bistro%20Tables/SL20150.jpg?updatedAt=1737201004126"
       },
       {
         "productCode": "SL20033",
-        "material": "Teak Wood",
+        "description": "Teak Wood",
         "Finish": "Walnut Finish",
-        "size": "100x50x40 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/furniture/Bistro%20Tables/SL20033.jpg?updatedAt=1737201003281"
       },
       {
         "productCode": "SL20021",
-        "material": "Teak Wood",
+        "description": "Teak Wood",
         "Finish": "Walnut Finish",
-        "size": "100x50x40 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/furniture/Bistro%20Tables/SL20021.jpg?updatedAt=1737200997765"
       }
     ],
     "coffee-tables": [
       {
         "productCode": "SL21118",
-        "material": "Sheesham Wood",
+        "description": "Sheesham Wood",
         "Finish": "Natural Polish",
-        "size": "120x60x45 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/furniture/Coffee%20Table/SL21118.jpg?updatedAt=1737201005149"
       },
       {
         "productCode": "SL20172",
-        "material": "Teak Wood",
+        "description": "Teak Wood",
         "Finish": "Walnut Finish",
-        "size": "100x50x40 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/furniture/Coffee%20Table/SL20172.jpg?updatedAt=1737201001360"
       },
       {
         "productCode": "SL20775",
-        "material": "Teak Wood",
+        "description": "Teak Wood",
         "Finish": "Walnut Finish",
-        "size": "100x50x40 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/furniture/Coffee%20Table/SL20775.jpg?updatedAt=1737200999682"
       },
       {
         "productCode": "SL21305",
-        "material": "Teak Wood",
+        "description": "Teak Wood",
         "Finish": "Walnut Finish",
-        "size": "100x50x40 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/furniture/Coffee%20Table/SL21305.jpg?updatedAt=1737200999666"
       },
       {
         "productCode": "SL21443",
-        "material": "Teak Wood",
+        "description": "Teak Wood",
         "Finish": "Walnut Finish",
-        "size": "100x50x40 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/furniture/Coffee%20Table/SL21433.jpg?updatedAt=1737200998649"
       },
       {
         "productCode": "SL21427",
-        "material": "Teak Wood",
+        "description": "Teak Wood",
         "Finish": "Walnut Finish",
-        "size": "100x50x40 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/furniture/Coffee%20Table/SL21427.jpg?updatedAt=1737200998450"
       },
       {
         "productCode": "SL20869",
-        "material": "Teak Wood",
+        "description": "Teak Wood",
         "Finish": "Walnut Finish",
-        "size": "100x50x40 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/furniture/Coffee%20Table/SL20869.jpg?updatedAt=1737200997922"
       },
       {
         "productCode": "SL20753",
-        "material": "Teak Wood",
+        "description": "Teak Wood",
         "Finish": "Walnut Finish",
-        "size": "100x50x40 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/furniture/Coffee%20Table/SL20753.jpg?updatedAt=1737200997933"
       },
       {
         "productCode": "SL21076",
-        "material": "Teak Wood",
+        "description": "Teak Wood",
         "Finish": "Walnut Finish",
-        "size": "100x50x40 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/furniture/Coffee%20Table/SL21076.jpg?updatedAt=1737200997510"
       },
       {
         "productCode": "SL20195",
-        "material": "Teak Wood",
+        "description": "Teak Wood",
         "Finish": "Walnut Finish",
-        "size": "100x50x40 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/furniture/Coffee%20Table/SL20195.jpg?updatedAt=1737200992255"
       }
     ],
     "console-pillars": [
       {
         "productCode": "SL21406",
-        "material": "Sheesham Wood",
+        "description": "Sheesham Wood",
         "Finish": "Natural Polish",
-        "size": "120x60x45 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/furniture/Console%20Pillars/SL21406.jpg?updatedAt=1737200990128"
       },
       {
         "productCode": "SL21462",
-        "material": "Teak Wood",
+        "description": "Teak Wood",
         "Finish": "Walnut Finish",
-        "size": "100x50x40 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/furniture/Console%20Pillars/SL21462.jpg?updatedAt=1737200989848"
       },
       {
         "productCode": "SL20275",
-        "material": "Teak Wood",
+        "description": "Teak Wood",
         "Finish": "Walnut Finish",
-        "size": "100x50x40 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/furniture/Console%20Pillars/SL20275.jpg?updatedAt=1737200989773"
       },
       {
         "productCode": "SL20616",
-        "material": "Teak Wood",
+        "description": "Teak Wood",
         "Finish": "Walnut Finish",
-        "size": "100x50x40 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/furniture/Console%20Pillars/SL20616.JPG?updatedAt=1737200987905"
       },
       {
         "productCode": "SL20264",
-        "material": "Teak Wood",
+        "description": "Teak Wood",
         "Finish": "Walnut Finish",
-        "size": "100x50x40 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/furniture/Console%20Pillars/SL20264.jpg?updatedAt=1737200987497"
       },
       {
         "productCode": "SL21002",
-        "material": "Teak Wood",
+        "description": "Teak Wood",
         "Finish": "Walnut Finish",
-        "size": "100x50x40 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/furniture/Console%20Pillars/SL21002.jpg?updatedAt=1737200986178"
       },
       {
         "productCode": "SL20197",
-        "material": "Teak Wood",
+        "description": "Teak Wood",
         "Finish": "Walnut Finish",
-        "size": "100x50x40 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/furniture/Console%20Pillars/SL20197.jpg?updatedAt=1737200986396"
       },
       {
         "productCode": "SL20110",
-        "material": "Teak Wood",
+        "description": "Teak Wood",
         "Finish": "Walnut Finish",
-        "size": "100x50x40 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/furniture/Console%20Pillars/SL20110.jpg?updatedAt=1737200985529"
       },
       {
         "productCode": "SL20921",
-        "material": "Teak Wood",
+        "description": "Teak Wood",
         "Finish": "Walnut Finish",
-        "size": "100x50x40 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/furniture/Console%20Pillars/SL20921.jpg?updatedAt=1737200984635"
       },
       {
         "productCode": "SL20001-140",
-        "material": "Teak Wood",
+        "description": "Teak Wood",
         "Finish": "Walnut Finish",
-        "size": "100x50x40 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/furniture/Console%20Pillars/SL20001-140.jpg?updatedAt=1737201985828"
       }
     ],
     "side-tables": [
       {
         "productCode": "SL20129",
-        "material": "Sheesham Wood",
+        "description": "Sheesham Wood",
         "Finish": "Natural Polish",
-        "size": "120x60x45 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/furniture/Side%20Tables/SL20129.jpg?updatedAt=1737200986039"
       },
       {
         "productCode": "SL20550-50",
-        "material": "Teak Wood",
+        "description": "Teak Wood",
         "Finish": "Walnut Finish",
-        "size": "100x50x40 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/furniture/Side%20Tables/SL20550-50.jpg?updatedAt=1737200985526"
       },
       {
         "productCode": "SL20208",
-        "material": "Teak Wood",
+        "description": "Teak Wood",
         "Finish": "Walnut Finish",
-        "size": "100x50x40 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/furniture/Side%20Tables/SL20208.jpg?updatedAt=1737200981478"
       },
       {
         "productCode": "SL20416",
-        "material": "Teak Wood",
+        "description": "Teak Wood",
         "Finish": "Walnut Finish",
-        "size": "100x50x40 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/furniture/Side%20Tables/SL20416.jpg?updatedAt=1737200977955"
       },
       {
         "productCode": "SL20074",
-        "material": "Teak Wood",
+        "description": "Teak Wood",
         "Finish": "Walnut Finish",
-        "size": "100x50x40 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/furniture/Side%20Tables/SL20074.jpg?updatedAt=1737200976756"
       },
       {
         "productCode": "SL20621",
-        "material": "Teak Wood",
+        "description": "Teak Wood",
         "Finish": "Walnut Finish",
-        "size": "100x50x40 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/furniture/Side%20Tables/SL20621.jpg?updatedAt=1737200974208"
       },
       {
         "productCode": "SL20831",
-        "material": "Teak Wood",
+        "description": "Teak Wood",
         "Finish": "Walnut Finish",
-        "size": "100x50x40 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/furniture/Side%20Tables/SL20831.jpg?updatedAt=1737200971192"
       },
       {
         "productCode": "SL20236",
-        "material": "Teak Wood",
+        "description": "Teak Wood",
         "Finish": "Walnut Finish",
-        "size": "100x50x40 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/furniture/Side%20Tables/SL20236.jpg?updatedAt=1737200970909"
       },
       {
         "productCode": "SL21422",
-        "material": "Teak Wood",
+        "description": "Teak Wood",
         "Finish": "Walnut Finish",
-        "size": "100x50x40 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/furniture/Side%20Tables/SL21422.jpg?updatedAt=1737200966063"
       },
       {
         "productCode": "SL20048",
-        "material": "Teak Wood",
+        "description": "Teak Wood",
         "Finish": "Walnut Finish",
-        "size": "100x50x40 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/furniture/Side%20Tables/SL20048.jpg?updatedAt=1737200963910"
       }
     ],
     "stools": [
       {
         "productCode": "SL20247",
-        "material": "Sheesham Wood",
+        "description": "Sheesham Wood",
         "Finish": "Natural Polish",
-        "size": "120x60x45 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/furniture/Stools/SL20247.jpg?updatedAt=1737200955959"
       },
       {
         "productCode": "SL20750",
-        "material": "Teak Wood",
+        "description": "Teak Wood",
         "Finish": "Walnut Finish",
-        "size": "100x50x40 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/furniture/Stools/SL20750.png?updatedAt=1737200955929"
       },
       {
         "productCode": "SL20749",
-        "material": "Teak Wood",
+        "description": "Teak Wood",
         "Finish": "Walnut Finish",
-        "size": "100x50x40 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/furniture/Stools/SL20749.png?updatedAt=1737200955618"
       },
       {
         "productCode": "SL20737",
-        "material": "Teak Wood",
+        "description": "Teak Wood",
         "Finish": "Walnut Finish",
-        "size": "100x50x40 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/furniture/Stools/SL20737.png?updatedAt=1737200953463"
       },
       {
         "productCode": "SL20736",
-        "material": "Teak Wood",
+        "description": "Teak Wood",
         "Finish": "Walnut Finish",
-        "size": "100x50x40 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/furniture/Stools/SL20736.png?updatedAt=1737200951906"
       },
       {
         "productCode": "SL20744",
-        "material": "Teak Wood",
+        "description": "Teak Wood",
         "Finish": "Walnut Finish",
-        "size": "100x50x40 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/furniture/Stools/SL20744.png?updatedAt=1737200951882"
       }
     ]
@@ -330,288 +285,248 @@
     "bowls": [
       {
         "productCode": "SL9801",
-        "material": "Ceramic",
+        "description": "Ceramic",
         "Finish": "Glossy White",
-        "size": "30x10x10 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/home%20decor/Bowls/SL9801.jpg?updatedAt=1737202276583"
       },
       {
         "productCode": "SL9800",
-        "material": "Ceramic",
+        "description": "Ceramic",
         "Finish": "Glossy White",
-        "size": "30x10x10 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/home%20decor/Bowls/SL9800.jpg?updatedAt=1737202293181"
       },
       {
         "productCode": "SL9743",
-        "material": "Ceramic",
+        "description": "Ceramic",
         "Finish": "Glossy White",
-        "size": "30x10x10 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/home%20decor/Bowls/SL9743.jpg?updatedAt=1737202313441"
       },
       {
         "productCode": "SL10359",
-        "material": "Ceramic",
+        "description": "Ceramic",
         "Finish": "Glossy White",
-        "size": "30x10x10 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/home%20decor/Bowls/SL10359.jpg?updatedAt=1737200949232"
       },
       {
         "productCode": "SL9789",
-        "material": "Ceramic",
+        "description": "Ceramic",
         "Finish": "Glossy White",
-        "size": "30x10x10 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/home%20decor/Bowls/SL9789.jpg?updatedAt=1737202333630"
       },
       {
         "productCode": "SL9744",
-        "material": "Ceramic",
+        "description": "Ceramic",
         "Finish": "Glossy White",
-        "size": "30x10x10 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/home%20decor/Bowls/SL9744.jpg?updatedAt=1737202354029"
       },
       {
         "productCode": "SL10093",
-        "material": "Ceramic",
+        "description": "Ceramic",
         "Finish": "Glossy White",
-        "size": "30x10x10 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/home%20decor/Bowls/SL10093.png?updatedAt=1737202372500"
       },
       {
         "productCode": "SL10358",
-        "material": "Ceramic",
+        "description": "Ceramic",
         "Finish": "Glossy White",
-        "size": "30x10x10 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/home%20decor/Bowls/SL10358.jpg?updatedAt=1737200947269"
       },
       {
         "productCode": "SL10357",
-        "material": "Ceramic",
+        "description": "Ceramic",
         "Finish": "Glossy White",
-        "size": "30x10x10 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/home%20decor/Bowls/SL10357.jpg?updatedAt=1737200946967"
       },
       {
         "productCode": "SL10097",
-        "material": "Ceramic",
+        "description": "Ceramic",
         "Finish": "Glossy White",
-        "size": "30x10x10 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/home%20decor/Bowls/SL10097.jpg?updatedAt=1737200946898"
       }
     ],
     "candles-stands": [
       {
         "productCode": "SL9993",
-        "material": "Ceramic",
+        "description": "Ceramic",
         "Finish": "Glossy White",
-        "size": "30x10x10 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/home%20decor/Candle/SL9993.jpg?updatedAt=1737200946725"
       },
       {
         "productCode": "SL9974",
-        "material": "Ceramic",
+        "description": "Ceramic",
         "Finish": "Glossy White",
-        "size": "30x10x10 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/home%20decor/Candle/SL9974.jpg?updatedAt=1737200945739"
       },
       {
         "productCode": "SL10367",
-        "material": "Ceramic",
+        "description": "Ceramic",
         "Finish": "Glossy White",
-        "size": "30x10x10 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/home%20decor/Candle/SL10367.png?updatedAt=1737200943442"
       },
       {
         "productCode": "SL10366",
-        "material": "Ceramic",
+        "description": "Ceramic",
         "Finish": "Glossy White",
-        "size": "30x10x10 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/home%20decor/Candle/SL10366.png?updatedAt=1737200943023"
       },
       {
         "productCode": "SL10365",
-        "material": "Ceramic",
+        "description": "Ceramic",
         "Finish": "Glossy White",
-        "size": "30x10x10 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/home%20decor/Candle/SL10365.png?updatedAt=1737200942643"
       },
       {
         "productCode": "SL10364",
-        "material": "Ceramic",
+        "description": "Ceramic",
         "Finish": "Glossy White",
-        "size": "30x10x10 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/home%20decor/Candle/SL10364.jpg?updatedAt=1737200942723"
       },
       {
         "productCode": "SL10363",
-        "material": "Ceramic",
+        "description": "Ceramic",
         "Finish": "Glossy White",
-        "size": "30x10x10 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/home%20decor/Candle/SL10363.jpg?updatedAt=1737200942413"
       },
       {
         "productCode": "SL10362",
-        "material": "Ceramic",
+        "description": "Ceramic",
         "Finish": "Glossy White",
-        "size": "30x10x10 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/home%20decor/Candle/SL10362.jpg?updatedAt=1737200941556"
       },
       {
         "productCode": "SL10361",
-        "material": "Ceramic",
+        "description": "Ceramic",
         "Finish": "Glossy White",
-        "size": "30x10x10 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/home%20decor/Candle/SL10361.jpg?updatedAt=1737200941614"
       },
       {
         "productCode": "SL10360",
-        "material": "Ceramic",
+        "description": "Ceramic",
         "Finish": "Glossy White",
-        "size": "30x10x10 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/home%20decor/Candle/SL10360.jpg?updatedAt=1737200939737"
       }
     ],
     "trays": [
       {
         "productCode": "SL9851",
-        "material": "Ceramic",
+        "description": "Ceramic",
         "Finish": "Glossy White",
-        "size": "30x10x10 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/home%20decor/Trays/SL9851.jpg?updatedAt=1737200942441"
       },
       {
         "productCode": "SL9741",
-        "material": "Ceramic",
+        "description": "Ceramic",
         "Finish": "Glossy White",
-        "size": "30x10x10 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/home%20decor/Trays/SL9741.jpg?updatedAt=1737200939826"
       },
       {
         "productCode": "SL10372",
-        "material": "Ceramic",
+        "description": "Ceramic",
         "Finish": "Glossy White",
-        "size": "30x10x10 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/home%20decor/Trays/SL10372.jpg?updatedAt=1737200939669"
       },
       {
         "productCode": "SL9825",
-        "material": "Ceramic",
+        "description": "Ceramic",
         "Finish": "Glossy White",
-        "size": "30x10x10 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/home%20decor/Trays/SL9825.jpg?updatedAt=1737200939449"
       },
       {
         "productCode": "SL10373",
-        "material": "Ceramic",
+        "description": "Ceramic",
         "Finish": "Glossy White",
-        "size": "30x10x10 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/home%20decor/Trays/SL10373.jpg?updatedAt=1737200937991"
       },
       {
         "productCode": "SL10374",
-        "material": "Ceramic",
+        "description": "Ceramic",
         "Finish": "Glossy White",
-        "size": "30x10x10 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/home%20decor/Trays/SL10374.png?updatedAt=1737200937818"
       },
       {
         "productCode": "SL10371",
-        "material": "Ceramic",
+        "description": "Ceramic",
         "Finish": "Glossy White",
-        "size": "30x10x10 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/home%20decor/Trays/SL10371.jpg?updatedAt=1737200937066"
       },
       {
         "productCode": "SL10370",
-        "material": "Ceramic",
+        "description": "Ceramic",
         "Finish": "Glossy White",
-        "size": "30x10x10 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/home%20decor/Trays/SL10370.jpg?updatedAt=1737200936675"
       },
       {
         "productCode": "SL10369",
-        "material": "Ceramic",
+        "description": "Ceramic",
         "Finish": "Glossy White",
-        "size": "30x10x10 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/home%20decor/Trays/SL10369.jpg?updatedAt=1737200936636"
       },
       {
         "productCode": "SL10368",
-        "material": "Ceramic",
+        "description": "Ceramic",
         "Finish": "Glossy White",
-        "size": "30x10x10 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/home%20decor/Trays/SL10368.jpg?updatedAt=1737200935689"
       }
     ],
     "vases": [
       {
         "productCode": "SL10384",
-        "material": "Ceramic",
+        "description": "Ceramic",
         "Finish": "Glossy White",
-        "size": "30x10x10 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/home%20decor/Vases/SL10384.jpg?updatedAt=1737200935487"
       },
       {
         "productCode": "SL10382",
-        "material": "Ceramic",
+        "description": "Ceramic",
         "Finish": "Glossy White",
-        "size": "30x10x10 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/home%20decor/Vases/SL10382.jpg?updatedAt=1737200934439"
       },
       {
         "productCode": "SL10381",
-        "material": "Ceramic",
+        "description": "Ceramic",
         "Finish": "Glossy White",
-        "size": "30x10x10 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/home%20decor/Vases/SL10381.jpg?updatedAt=1737200933983"
       },
       {
         "productCode": "SL10383",
-        "material": "Ceramic",
+        "description": "Ceramic",
         "Finish": "Glossy White",
-        "size": "30x10x10 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/home%20decor/Vases/SL10383.jpg?updatedAt=1737791091739"
       },
       {
         "productCode": "SL10379",
-        "material": "Ceramic",
+        "description": "Ceramic",
         "Finish": "Glossy White",
-        "size": "30x10x10 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/home%20decor/Vases/SL10379.jpg?updatedAt=1737791023058"
       },
       {
         "productCode": "SL10380",
-        "material": "Ceramic",
+        "description": "Ceramic",
         "Finish": "Glossy White",
-        "size": "30x10x10 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/home%20decor/Vases/SL10380.png?updatedAt=1737200933667"
       },
       {
         "productCode": "SL10378",
-        "material": "Ceramic",
+        "description": "Ceramic",
         "Finish": "Glossy White",
-        "size": "30x10x10 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/home%20decor/Vases/SL10378.jpg?updatedAt=1737200933342"
       },
       {
         "productCode": "SL10377",
-        "material": "Ceramic",
+        "description": "Ceramic",
         "Finish": "Glossy White",
-        "size": "30x10x10 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/home%20decor/Vases/SL10377.jpg?updatedAt=1737200933001"
       },
       {
         "productCode": "SL10376",
-        "material": "Ceramic",
+        "description": "Ceramic",
         "Finish": "Glossy White",
-        "size": "30x10x10 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/home%20decor/Vases/SL10376.jpg?updatedAt=1737200932444"
       },
       {
         "productCode": "SL10375",
-        "material": "Ceramic",
+        "description": "Ceramic",
         "Finish": "Glossy White",
-        "size": "30x10x10 cm",
         "image": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/home%20decor/Vases/SL10375.jpg?updatedAt=1737791153292"
       }
     ]
