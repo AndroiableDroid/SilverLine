@@ -70,7 +70,7 @@ function createProductCard(product) {
   productCard.className = 'productCard';
 
   const productLink = document.createElement('a');
-  const productURL = `/product.html?category=${category}&subCategory=${subCategory}&productCode=${product.productCode}`;
+  const productURL = `product.html?category=${category}&subCategory=${subCategory}&productCode=${product.productCode}`;
   productLink.href = productURL;
   productLink.className = 'productLink';
 

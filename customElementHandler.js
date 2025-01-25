@@ -1,4 +1,4 @@
-const root = "/";
+const root = "";
 const templatePath = root + "templates/";
 class SpecialHeader extends HTMLElement {
   async connectedCallback() {

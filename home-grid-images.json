@@ -3,54 +3,54 @@
       "src": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/homePage/Coffee%20Tables.jpg?updatedAt=1737793703935",
       "alt": "Coffee Tables",
       "hoverText": "Coffee Tables",
-      "link": "/products.html?category=furniture&subCategory=coffee-tables"
+      "link": "products.html?category=furniture&subCategory=coffee-tables"
     },
     {
       "src": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/homePage/Console%20and%20Pillars.jpg?updatedAt=1737793703436",
       "alt": "Console and Pillars",
       "hoverText": "Console and Pillars",
-      "link": "/products.html?category=furniture&subCategory=console-pillars"
+      "link": "products.html?category=furniture&subCategory=console-pillars"
     },
     {
       "src": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/homePage/Side%20Tables.jpg?updatedAt=1737793703616",
       "alt": "Side Tables",
       "hoverText": "Side Tables",
-      "link": "/products.html?category=furniture&subCategory=side-tables"
+      "link": "products.html?category=furniture&subCategory=side-tables"
     },
     {
       "src": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/homePage/bowls.jpeg?updatedAt=1737795330999",
       "alt": "Bowls",
       "hoverText": "Bowls",
-      "link": "/products.html?category=home-decor&subCategory=bowls"
+      "link": "products.html?category=home-decor&subCategory=bowls"
     },
     {
       "src": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/homePage/Trays.jpg?updatedAt=1737793703431",
       "alt": "Trays",
       "hoverText": "Trays",
-      "link": "/products.html?category=home-decor&subCategory=trays"
+      "link": "products.html?category=home-decor&subCategory=trays"
     },
     {
       "src": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/homePage/vases.jpeg?updatedAt=1737795264005",
       "alt": "Vases",
       "hoverText": "Vases",
-      "link": "/products.html?category=home-decor&subCategory=vases"
+      "link": "products.html?category=home-decor&subCategory=vases"
     },
     {
       "src": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/homePage/Bistro%20Tables.jpg?updatedAt=1737793703674",
       "alt": "Bistro Tables",
       "hoverText": "Bistro Tables",
-      "link": "/products.html?category=furniture&subCategory=bistro-tables"
+      "link": "products.html?category=furniture&subCategory=bistro-tables"
     },
     {
       "src": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/home%20page/Candle%20Holders.jpg?updatedAt=1737200928766",
       "alt": "Candles Stands",
       "hoverText": "Candles Stands",
-      "link": "/products.html?category=home-decor&subCategory=candles-stands"
+      "link": "products.html?category=home-decor&subCategory=candles-stands"
     },
     {
       "src": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/homePage/stools.jpeg?updatedAt=1737795674592",
       "alt": "Stools",
       "hoverText": "Stools",
-      "link": "/products.html?category=furniture&subCategory=stools"
+      "link": "products.html?category=furniture&subCategory=stools"
     }
   ]
