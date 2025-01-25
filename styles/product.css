@@ -63,7 +63,7 @@
   }
   
   .productFinish,
-  .productMaterial,
+  .productDescription,
   .productSize {
     font-family: 'Jost';
     color: #29335C;
@@ -82,7 +82,7 @@
   }
   
   .productFinish > span,
-  .productMaterial > span,
+  .productDescription > span,
   .productSize > span {
     font-family: 'Jost';
     font-size: medium;

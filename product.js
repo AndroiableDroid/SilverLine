@@ -46,9 +46,8 @@ function displayProductDetails(product) {
           </div>
           <div class="productSpecsContainer">
             <h1 class="productCode">${product.productCode}</h1>
-            <p class="productFinish">Finish: <span>${product.Finish}</span></p>
-            <p class="productMaterial">Material: <span>${product.material}</span></p>
-            <p class="productSize">Size (inches): <span>${product.size}</span></p>
+            <p class="productFinish">Finish: <span>${product.finish}</span></p>
+            <p class="productDescription">Description: <span>${product.description}</span></p>
             <a href="/contact-us.html" target="_blank" class="contactBtn">Enquire Now</a>
           </div>
         </div>
