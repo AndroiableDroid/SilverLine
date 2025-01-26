@@ -3,11 +3,33 @@ const urlParams = new URLSearchParams(window.location.search);
 const category = urlParams.get('category'); // e.g., 'furniture'
 const subCategory = urlParams.get('subCategory'); // e.g., 'center-tables'
 
+// Function to set the page title and meta description
+function setSEOTags(category, subCategory) {
+  const title = document.querySelector('title');
+  const metaDescription = document.querySelector('meta[name="description"]');
+
+  if (category && subCategory) {
+    title.innerText = `${capitalizeFirstLetter(subCategory)} in ${capitalizeFirstLetter(category)} - Our Products`;
+    metaDescription.setAttribute('content', `Explore our range of ${subCategory} in the ${category} category. Find the best products that suit your needs.`);
+  } else {
+    title.innerText = 'Products - Our Store';
+    metaDescription.setAttribute('content', 'Browse our wide range of products across various categories.');
+  }
+}
+
+// Helper function to capitalize the first letter of a string
+function capitalizeFirstLetter(string) {
+  return string.charAt(0).toUpperCase() + string.slice(1);
+}
+
 // Validate that the required parameters are provided
 if (!category || !subCategory) {
   document.getElementById('pageTitle').innerText =
     'Invalid URL parameters. Please provide both category and subCategory.';
+  setSEOTags(); // Set default SEO tags
 } else {
+  setSEOTags(category, subCategory); // Set SEO tags based on parameters
+
   // Fetch JSON data
   fetch('data.json')
     .then((response) => {
