@@ -25,6 +25,9 @@ function fetchProductDetails() {
 
       // Display product details
       displayProductDetails(product);
+
+      // Set dynamic title and meta description
+      setDynamicTitleAndMeta(product);
     })
     .catch(error => {
       console.error('Error fetching product details:', error);
@@ -46,9 +49,8 @@ function displayProductDetails(product) {
           </div>
           <div class="productSpecsContainer">
             <h1 class="productCode">${product.productCode}</h1>
-            <p class="productFinish">Finish: <span>${product.Finish}</span></p>
-            <p class="productMaterial">Material: <span>${product.material}</span></p>
-            <p class="productSize">Size (inches): <span>${product.size}</span></p>
+            <p class="productFinish">Finish: <span>${product.finish}</span></p>
+            <p class="productDescription">Description: <span>${product.description}</span></p>
             <a href="/contact-us.html" target="_blank" class="contactBtn">Enquire Now</a>
           </div>
         </div>
@@ -59,6 +61,13 @@ function displayProductDetails(product) {
 
   // Inject the HTML into the product details container
   productDetailsContainer.innerHTML = productHTML;
+}
+
+// Function to set dynamic title and meta description
+function setDynamicTitleAndMeta(product) {
+  document.title = `${product.productCode} - Product Details`;
+  const metaDesc = document.getElementById('dynamicMetaDesc');
+  metaDesc.content = `${product.description} - Learn more about our ${product.finish} finish.`;
 }
 
 // Call the function to fetch and render the product details
