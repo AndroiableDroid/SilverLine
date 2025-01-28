@@ -1,18 +1,6 @@
 /* style.css */
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600;700&display=swap");
 
-:root {
-  --dark-grey: #333333;
-  --medium-grey: #636363;
-  --light-grey: #eeeeee;
-  --ash: #f4f4f4;
-  --primary-color: #2b72fb;
-  --white: white;
-  --border: 1px solid var(--light-grey);
-  --shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px,
-    rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
-}
-
 ul {
   list-style: none;
 }
@@ -101,8 +89,8 @@ button {
 
 .menu-bar .nav-link:hover,
 .dropdown-link:hover {
-  /* color: var(--primary-color); */
-  color: #636363;
+  color: var(--primary-color);
+  /* color: #636363; */
 }
 
 .nav-start,

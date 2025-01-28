@@ -74,6 +74,11 @@ function filterAndRenderProducts(data) {
     pageTitle.innerText = `No products found in "${subCategory}".`;
     container.innerHTML = '';
     return;
+  } else {
+    pageTitle.style.fontWeight = "300";
+    pageTitle.style.fontStyle = "italic";
+    pageTitle.style.color = "";
+    pageTitle.innerText = subCategory.replaceAll("-", " ");
   }
 
   // Clear any previous content in the container
