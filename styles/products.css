@@ -17,15 +17,15 @@ main {
     width: 100%;
 }
 
-main > div {
+main {
     
     max-width: 75rem;
     margin: 0 auto;
-    padding-block: 1rem;
     text-transform: capitalize;
 }
 
-main > div > h1 {
+main > h1 {
+    margin-block: 1.125rem;
     font-weight: 400;
     text-overflow: ellipsis;
     overflow: hidden;
@@ -37,6 +37,7 @@ main > div > h1 {
     width: 100%;
     word-break: break-word;
     text-align: center;
+    color: var(--primary-color);
 }
 
 .productContainer {
@@ -106,4 +107,8 @@ main > div > h1 {
     main > div{
         width: 100%;
     }
+}
+
+special-footer > div {
+    margin-top: 2rem;
 }
