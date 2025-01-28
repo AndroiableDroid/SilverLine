@@ -37,7 +37,7 @@ main > h1 {
     width: 100%;
     word-break: break-word;
     text-align: center;
-    color: var(--primary-color);
+    color: var(--secondary-color);
 }
 
 .productContainer {

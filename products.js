@@ -75,7 +75,6 @@ function filterAndRenderProducts(data) {
     container.innerHTML = '';
     return;
   } else {
-    pageTitle.style.fontWeight = "300";
     pageTitle.style.fontStyle = "italic";
     pageTitle.style.color = "";
     pageTitle.innerText = subCategory.replaceAll("-", " ");
