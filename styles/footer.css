@@ -95,6 +95,7 @@
     align-items: center;
     color: rgb(255, 255, 255);
     background-color: #000000;
+    text-align: center;
   }
   
   @media only screen and (max-width: 701px) {
