@@ -77,7 +77,7 @@ function filterAndRenderProducts(data) {
   } else {
     pageTitle.style.fontStyle = "italic";
     pageTitle.style.color = "";
-    pageTitle.innerText = subCategory.replaceAll("-", " ");
+    pageTitle.innerText = subCategory.replaceAll("-", " & ");
   }
 
   // Clear any previous content in the container
