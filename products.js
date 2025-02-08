@@ -75,9 +75,11 @@ function filterAndRenderProducts(data) {
     container.innerHTML = '';
     return;
   } else {
-    pageTitle.style.fontStyle = "italic";
     pageTitle.style.color = "";
-    pageTitle.innerText = subCategory.replaceAll("-", " & ");
+    let pageTitleName = subCategory.replaceAll("-", " ");
+    if (subCategory === "console-pillars")
+      pageTitleName = "Console & Pillars";
+    pageTitle.innerText = pageTitleName;
   }
 
   // Clear any previous content in the container
