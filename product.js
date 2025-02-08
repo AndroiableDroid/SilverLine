@@ -1,3 +1,6 @@
+// Copyright (c) 2025 HawkFlit. All rights reserved.
+// Unauthorized copying of this file, via any medium is strictly prohibited.
+// Proprietary and confidential
 // Get the product code from URL parameters
 const urlParams = new URLSearchParams(window.location.search);
 const category = urlParams.get('category');

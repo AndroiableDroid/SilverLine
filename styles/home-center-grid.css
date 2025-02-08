@@ -1,3 +1,8 @@
+/*
+ Copyright (c) 2025 HawkFlit. All rights reserved.
+ Unauthorized copying of this file, via any medium is strictly prohibited.
+ Proprietary and confidential
+*/
 .home-gallery-container {
     display: grid;
     grid-template-columns: 1.5fr 0.5fr 1fr 1fr 0.5fr 1.5fr; /* Matches 6 columns in total */

@@ -1,3 +1,6 @@
+// Copyright (c) 2025 HawkFlit. All rights reserved.
+// Unauthorized copying of this file, via any medium is strictly prohibited.
+// Proprietary and confidential
 const root = "";
 const templatePath = root + "templates/";
 class SpecialHeader extends HTMLElement {
