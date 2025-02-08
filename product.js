@@ -51,7 +51,7 @@ function displayProductDetails(product) {
             <h1 class="productCode">${product.productCode}</h1>
             <p class="productFinish">Finish: <span>${product.finish}</span></p>
             <p class="productDescription">Description: <span>${product.description}</span></p>
-            <a href="/contact-us.html" target="_blank" class="contactBtn">Enquire Now</a>
+            <a href="/contact-us.html" class="contactBtn">Enquire Now</a>
           </div>
         </div>
        
